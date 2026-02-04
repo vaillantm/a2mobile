@@ -10,8 +10,7 @@
 - Toasts for success and missing fields.
 - User Details shows submitted data; Login defaults name to "User" and sets role from remember-me.
 
-## Screenshots (loaded via markup from `public/`)
-The images below are referenced directly in Markdown using `public/*.jpeg`.
+## Screenshots 
 
 ![Login Screen](public/login-screen.jpeg)
 ![Sign-Up Screen](public/signup-screen.jpeg)
