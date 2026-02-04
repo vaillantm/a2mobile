@@ -1,4 +1,4 @@
-# Assignment #2 INSY 8414 - Mobile Programming, 2025-2026
+## Assignment 2  Mobile Programming, 2025-2026
 
 ## What I built
 - Android app with three Activities: Login, Sign-Up, User Details.
