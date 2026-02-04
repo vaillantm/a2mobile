@@ -7,8 +7,10 @@
 
 ## Behavior
 - Validation on Login and Sign-Up (required fields + terms checkbox).
-- Toasts for success and missing fields.
 - User Details shows submitted data; Login defaults name to "User" and sets role from remember-me.
+
+## Extra Credit
+- Toasts for success and missing fields.
 
 ## Screenshots 
 
