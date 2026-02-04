@@ -13,10 +13,15 @@
 - Toasts for success and missing fields.
 
 ## Screenshots 
-
+# LOGIN SCREEN 
 ![Login Screen](public/login-screen.jpeg)
+# SIGN UP SCREEN 
 ![Sign-Up Screen](public/signup-screen.jpeg)
+# USER DETAILS SCREEN 
 ![User Details Screen](public/details-screen.jpeg)
+# TOAST LOGIN
 ![Toast - Login](public/toast-login.jpeg)
+# TOAST ACCOUNT CREATED
 ![Toast - Account Created](public/toast-created.jpeg)
+# TOAST MISSING FIELDS
 ![Toast - Missing Fields](public/toast-missingfields.jpeg)
